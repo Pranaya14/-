@@ -1,3 +1,0 @@
-pip install torch
-pip install sentencepiece
-pip install protobuf
